@@ -1,5 +1,11 @@
 # AWS Resource Helper
 
+This package help you remove unused AWS resources.
+
+## Prerequisites
+
+* AWS credentials
+  
 ## install
 
 Run `npm i -g` to install this package globally. 
